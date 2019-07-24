@@ -6,7 +6,9 @@ Created on Thu Jun 27 17:08:50 2019
 """
 
 import os, re
-path = r"C:/Users/marcelo.oliveira/AppData/Local/Continuum/anaconda3/Lib/site-packages/facebookads"
+
+#add your directory 
+path = r"anaconda3/Lib/site-packages/facebookads"
 
 python_files = []
 
