@@ -1,7 +1,7 @@
 # FacebookAds API Python connect
 This is a project that uses a facebookads lib for python, I customized it to meet my needs
 
-First you need to install FacebookAds lib and set yours informationson facebookads manager. Use this link to get the steps:
+First you need to install FacebookAds lib and set yours informations from facebookads manager. Use this link to get the steps:
 
 https://github.com/facebook/facebook-python-business-sdk?fbclid=IwAR1_lPziqj1dPxYHcji0GGc1TnbUa4TaWIKaMDSYXj136SHxGCcOXSpjZTg
 
