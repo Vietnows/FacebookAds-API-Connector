@@ -7,7 +7,9 @@ https://github.com/facebook/facebook-python-business-sdk?fbclid=IwAR1_lPziqj1dPx
 
 This lib outdated, there are graph API v3.3, but the lib uses v2.1. You need to change on the directory of the lib after install.
 
-Step 1 - change to 3.3 the names on the file apiconfig.py on this directory in your computer Lib\site-packages\facebookads
+Step 1 - change to 3.3 the names on the file apiconfig.py on this directory in your computer:
+
+Lib\site-packages\facebookads
 
 Step 2 - This lib is outdated as I said above, and python received new update, the request assynchronous on python was updated.
 Before was async, now is async_
